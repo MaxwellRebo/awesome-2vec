@@ -1,6 +1,8 @@
 # awesome-2vec
 Curated list of 2vec-type embedding models
 
+This is a work in progress, so if you know of 2vec-style models that are not mentioned here, please do a PR!
+
 # The list
 
 **word2vec**
