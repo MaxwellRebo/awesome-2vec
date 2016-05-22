@@ -52,4 +52,11 @@ Python: https://github.com/rezoo/illustration2vec
 **lda2vec**
 
 Slideshare: http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994
+
 Python: https://github.com/cemoody/lda2vec
+
+<hr>
+
+**sentence2vec**
+
+Python: https://github.com/klb3713/sentence2vec
