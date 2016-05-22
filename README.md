@@ -46,3 +46,8 @@ Python: https://github.com/airalcorn2/batter-pitcher-2vec
 **illustration-2vec**
 
 Python: https://github.com/rezoo/illustration2vec
+
+**lda2vec**
+
+Slideshare: http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994
+Python: https://github.com/cemoody/lda2vec
