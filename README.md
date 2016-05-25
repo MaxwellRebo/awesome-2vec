@@ -51,6 +51,8 @@ Python: https://github.com/rezoo/illustration2vec
 
 **lda2vec**
 
+Paper: https://arxiv.org/pdf/1605.02019v1.pdf
+
 Slideshare: http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994
 
 Python: https://github.com/cemoody/lda2vec
@@ -60,3 +62,9 @@ Python: https://github.com/cemoody/lda2vec
 **sentence2vec**
 
 Python: https://github.com/klb3713/sentence2vec
+
+<hr>
+
+**wiki2vec**
+
+Java/Scala: https://github.com/idio/wiki2vec
