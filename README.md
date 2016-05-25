@@ -60,3 +60,9 @@ Python: https://github.com/cemoody/lda2vec
 **sentence2vec**
 
 Python: https://github.com/klb3713/sentence2vec
+
+<hr>
+
+**wiki2vec**
+
+Java/Scala: https://github.com/idio/wiki2vec
