@@ -68,3 +68,9 @@ Python: https://github.com/klb3713/sentence2vec
 **wiki2vec**
 
 Java/Scala: https://github.com/idio/wiki2vec
+
+**topicvec**
+
+Paper: http://bigml.cs.tsinghua.edu.cn/~jun/topic-embedding.pdf
+
+Python: https://github.com/askerlee/topicvec
