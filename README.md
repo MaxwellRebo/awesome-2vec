@@ -76,3 +76,11 @@ Java/Scala: https://github.com/idio/wiki2vec
 Paper: http://bigml.cs.tsinghua.edu.cn/~jun/topic-embedding.pdf
 
 Python: https://github.com/askerlee/topicvec
+
+<hr>
+
+**entity2vec**
+
+Python: https://github.com/ot/entity2vec
+
+Paper: http://www.di.unipi.it/~ottavian/files/wsdm15_fel.pdf
