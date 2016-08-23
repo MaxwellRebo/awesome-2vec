@@ -84,3 +84,9 @@ Python: https://github.com/askerlee/topicvec
 Python: https://github.com/ot/entity2vec
 
 Paper: http://www.di.unipi.it/~ottavian/files/wsdm15_fel.pdf
+
+<hr>
+
+**str2vec**
+
+Python: https://github.com/pengli09/str2vec
