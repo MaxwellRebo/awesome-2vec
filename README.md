@@ -90,3 +90,26 @@ Paper: http://www.di.unipi.it/~ottavian/files/wsdm15_fel.pdf
 **str2vec**
 
 Python: https://github.com/pengli09/str2vec
+
+<hr>
+
+**node2vec**
+
+Paper: https://arxiv.org/abs/1607.00653
+
+Page: https://snap.stanford.edu/node2vec/
+
+Python: https://github.com/aditya-grover/node2vec
+
+<hr>
+
+**item2vec**
+
+Paper: https://arxiv.org/abs/1603.04259
+
+<hr>
+
+**author2vec**
+
+Paper: https://www.microsoft.com/en-us/research/publication/author2vec-learning-author-representations-by-combining-content-and-link-information/
+
