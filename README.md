@@ -107,9 +107,15 @@ Python: https://github.com/aditya-grover/node2vec
 
 Paper: https://arxiv.org/abs/1603.04259
 
+
 <hr>
 
 **author2vec**
 
 Paper: https://www.microsoft.com/en-us/research/publication/author2vec-learning-author-representations-by-combining-content-and-link-information/
 
+<hr>
+
+**playlist-to-vec**
+
+Python: https://github.com/mattdennewitz/playlist-to-vec
