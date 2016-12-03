@@ -119,3 +119,9 @@ Paper: https://www.microsoft.com/en-us/research/publication/author2vec-learning-
 **playlist-to-vec**
 
 Python: https://github.com/mattdennewitz/playlist-to-vec
+
+<hr>
+
+**sense2vec**
+
+Paper: https://arxiv.org/abs/1511.06388
