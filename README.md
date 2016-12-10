@@ -125,3 +125,12 @@ Python: https://github.com/mattdennewitz/playlist-to-vec
 **sense2vec**
 
 Paper: https://arxiv.org/abs/1511.06388
+
+<hr>
+
+**med2vec**
+
+Paper: https://arxiv.org/abs/1602.05568
+
+Python: https://github.com/mp2893/med2vec
+
