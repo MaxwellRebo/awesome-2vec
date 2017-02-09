@@ -134,3 +134,9 @@ Paper: https://arxiv.org/abs/1602.05568
 
 Python: https://github.com/mp2893/med2vec
 
+
+<hr>
+
+**SCODE Word Embeddings using Substitute Words**
+
+Python: https://github.com/ai-ku/wvec
