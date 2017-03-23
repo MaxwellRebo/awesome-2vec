@@ -140,3 +140,9 @@ Python: https://github.com/mp2893/med2vec
 **SCODE Word Embeddings using Substitute Words**
 
 Python: https://github.com/ai-ku/wvec
+
+<hr>
+
+**game2vec**
+
+Python: https://github.com/warchildmd/game2vec
