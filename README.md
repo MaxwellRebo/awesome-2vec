@@ -146,3 +146,10 @@ Python: https://github.com/ai-ku/wvec
 **game2vec**
 
 Python: https://github.com/warchildmd/game2vec
+
+<hr>
+
+**paper2vec**
+
+Paper: https://arxiv.org/pdf/1703.06587.pdf
+
