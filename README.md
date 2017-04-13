@@ -153,3 +153,8 @@ Python: https://github.com/warchildmd/game2vec
 
 Paper: https://arxiv.org/pdf/1703.06587.pdf
 
+<hr>
+
+**struc2vec**
+
+Paper: https://arxiv.org/pdf/1704.03165.pdf
