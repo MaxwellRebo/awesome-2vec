@@ -158,3 +158,12 @@ Paper: https://arxiv.org/pdf/1703.06587.pdf
 **struc2vec**
 
 Paper: https://arxiv.org/pdf/1704.03165.pdf
+
+
+<hr>
+
+**emoji2vec**
+
+Code: https://arxiv.org/pdf/1609.08359.pdf
+
+Paper: https://github.com/uclmr/emoji2vec
