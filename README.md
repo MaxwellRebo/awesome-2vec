@@ -179,3 +179,9 @@ Paper: https://arxiv.org/pdf/1507.08818.pdf
 **phrase2vec**
 
 Paper: https://arxiv.org/pdf/1406.1078.pdf
+
+**context2vec**
+
+Paper: http://aclanthology.info/papers/K16-1006/context2vec-learning-generic-context-embedding-with-bidirectional-lstm
+
+Code: https://github.com/orenmel/context2vec
