@@ -185,3 +185,11 @@ Paper: https://arxiv.org/pdf/1406.1078.pdf
 Paper: http://aclanthology.info/papers/K16-1006/context2vec-learning-generic-context-embedding-with-bidirectional-lstm
 
 Code: https://github.com/orenmel/context2vec
+
+<hr>
+
+**ngram2vec**
+
+Paper: http://www.aclweb.org/anthology/D17-1023
+
+Code: https://github.com/zhezhaoa/ngram2vec
