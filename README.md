@@ -193,3 +193,9 @@ Code: https://github.com/orenmel/context2vec
 Paper: http://www.aclweb.org/anthology/D17-1023
 
 Code: https://github.com/zhezhaoa/ngram2vec
+
+<hr>
+
+**app2vec**
+
+Paper: http://paul.rutgers.edu/~qma/research/ma_app2vec.pdf
