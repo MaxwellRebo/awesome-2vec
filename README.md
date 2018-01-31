@@ -199,3 +199,7 @@ Code: https://github.com/zhezhaoa/ngram2vec
 **app2vec**
 
 Paper: http://paul.rutgers.edu/~qma/research/ma_app2vec.pdf
+
+**movie2vec**
+
+Code: https://github.com/lujiaying/MovieTaster-Open
