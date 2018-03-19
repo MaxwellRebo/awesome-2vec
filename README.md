@@ -21,6 +21,14 @@ Python:
 
 <hr>
 
+**diff2vec**
+
+Paper: https://link.springer.com/chapter/10.1007/978-3-319-73198-8_9
+
+Python: https://github.com/benedekrozemberczki/diff2vec
+
+<hr>
+
 **doc2vec**
 
 Paper: https://cs.stanford.edu/~quocle/paragraph_vector.pdf
