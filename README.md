@@ -205,3 +205,9 @@ Paper: http://paul.rutgers.edu/~qma/research/ma_app2vec.pdf
 **movie2vec**
 
 Code: https://github.com/lujiaying/MovieTaster-Open
+
+<hr>
+
+**pin2vec**
+
+Paper: https://arxiv.org/pdf/1702.07969
