@@ -227,3 +227,11 @@ Paper: https://arxiv.org/pdf/1702.07969
 Paper: https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf
 
 Page: https://ericdongyx.github.io/metapath2vec/m2v.html
+
+<hr>
+
+**rdf2vec**
+
+Paper: https://ub-madoc.bib.uni-mannheim.de/41307/1/Ristoski_RDF2Vec.pdf
+
+Code: http://data.dws.informatik.uni-mannheim.de/rdf2vec/
