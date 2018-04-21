@@ -219,3 +219,9 @@ Code: https://github.com/lujiaying/MovieTaster-Open
 **pin2vec**
 
 Paper: https://arxiv.org/pdf/1702.07969
+
+<hr>
+
+**wordnet2vec**
+
+Paper: https://arxiv.org/abs/1606.03335
