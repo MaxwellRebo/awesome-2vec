@@ -226,6 +226,8 @@ Paper: https://arxiv.org/pdf/1702.07969
 
 Paper: https://arxiv.org/abs/1606.03335
 
+<hr>
+
 **metapath2vec**
 
 Paper: https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf
