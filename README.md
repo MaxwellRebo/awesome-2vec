@@ -241,3 +241,10 @@ Page: https://ericdongyx.github.io/metapath2vec/m2v.html
 Paper: https://ub-madoc.bib.uni-mannheim.de/41307/1/Ristoski_RDF2Vec.pdf
 
 Code: http://data.dws.informatik.uni-mannheim.de/rdf2vec/
+
+<hr>
+
+**voice-vector**
+
+Code: https://github.com/andabi/voice-vector
+
