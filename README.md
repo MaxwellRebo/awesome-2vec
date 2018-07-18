@@ -248,3 +248,12 @@ Code: http://data.dws.informatik.uni-mannheim.de/rdf2vec/
 
 Code: https://github.com/andabi/voice-vector
 
+<hr>
+
+**mol2vec**
+
+Code: https://github.com/samoturk/mol2vec
+
+Paper (paywalled): https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00616
+
+
