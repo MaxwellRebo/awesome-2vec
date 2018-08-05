@@ -258,4 +258,14 @@ Code: https://github.com/samoturk/mol2vec
 
 Paper (paywalled): https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00616
 
+<hr>
+
+**Wikipedia2Vec**
+
+Page: https://wikipedia2vec.github.io/
+
+Code: https://github.com/wikipedia2vec/wikipedia2vec
+
+Paper: http://www.aclweb.org/anthology/K16-1025
+
 
