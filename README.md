@@ -39,6 +39,14 @@ Python: https://radimrehurek.com/gensim/models/doc2vec.html
 
 <hr>
 
+**graph2vec**
+
+Paper: https://arxiv.org/abs/1707.05005
+
+Python: https://github.com/benedekrozemberczki/graph2vec
+
+<hr>
+
 **tweet2vec**
 
 Paper: https://arxiv.org/abs/1605.03481
