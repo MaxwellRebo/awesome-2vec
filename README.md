@@ -31,6 +31,14 @@ Python: https://github.com/benedekrozemberczki/diff2vec
 
 <hr>
 
+**gemsec**
+
+Paper: https://arxiv.org/abs/1802.03997
+
+Python: https://github.com/benedekrozemberczki/GEMSEC
+
+<hr>
+
 **doc2vec**
 
 Paper: https://cs.stanford.edu/~quocle/paragraph_vector.pdf
