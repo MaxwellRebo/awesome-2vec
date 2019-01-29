@@ -284,4 +284,10 @@ Code: https://github.com/wikipedia2vec/wikipedia2vec
 
 Paper: http://www.aclweb.org/anthology/K16-1025
 
+<hr>
+
+**Role2Vec**
+
+Code: https://github.com/benedekrozemberczki/role2vec
+Paper: https://arxiv.org/pdf/1802.02896.pdf
 
