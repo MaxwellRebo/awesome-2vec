@@ -292,3 +292,11 @@ Code: https://github.com/benedekrozemberczki/role2vec
 
 Paper: https://arxiv.org/pdf/1802.02896.pdf
 
+<hr>
+
+**Vis2Vec**
+
+Paper : https://arxiv.org/pdf/1511.07067.pdf
+
+<hr>
+
