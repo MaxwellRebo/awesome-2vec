@@ -296,6 +296,7 @@ Paper: https://arxiv.org/pdf/1802.02896.pdf
 
 **Vis2Vec**
 
+Code: https://github.com/satwikkottur/VisualWord2Vec
 Paper : https://arxiv.org/pdf/1511.07067.pdf
 
 <hr>
