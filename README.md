@@ -23,6 +23,54 @@ Python:
 
 <hr>
 
+**SINE**
+
+Paper: https://arxiv.org/abs/1810.06768
+
+Python: https://github.com/benedekrozemberczki/SINE
+
+<hr>
+
+**Walklets**
+
+Paper: https://arxiv.org/abs/1605.02115
+
+Python: https://github.com/benedekrozemberczki/walklets
+
+<hr>
+
+**Splitter**
+
+Paper: http://epasto.org/papers/www2019splitter.pdf
+
+Python: https://github.com/benedekrozemberczki/Splitter
+
+<hr>
+
+**AttentionWalk**
+
+Paper: http://papers.nips.cc/paper/8131-watch-your-step-learning-node-embeddings-via-graph-attention
+
+Python: https://github.com/benedekrozemberczki/AttentionWalk
+
+<hr>
+
+**role2vec**
+
+Paper: https://arxiv.org/abs/1802.02896
+
+Python: https://github.com/benedekrozemberczki/role2vec
+
+<hr>
+
+**ASNE**
+
+Paper: https://arxiv.org/abs/1705.04969
+
+Python: https://github.com/benedekrozemberczki/ASNE
+
+<hr>
+
 **diff2vec**
 
 Paper: https://link.springer.com/chapter/10.1007/978-3-319-73198-8_9
