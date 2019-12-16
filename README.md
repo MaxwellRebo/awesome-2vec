@@ -349,3 +349,8 @@ Paper : https://arxiv.org/pdf/1511.07067.pdf
 
 <hr>
 
+**gl2vec**
+
+Paper : https://arxiv.org/pdf/1812.05473.pdf
+
+<hr>
