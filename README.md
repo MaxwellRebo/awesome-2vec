@@ -354,3 +354,13 @@ Paper : https://arxiv.org/pdf/1511.07067.pdf
 Paper : https://arxiv.org/pdf/1812.05473.pdf
 
 <hr>
+
+**StarSpace: Embed All The Things!**
+
+Code: https://github.com/facebookresearch/StarSpace  
+Paper : https://arxiv.org/pdf/1709.03856.pdf
+
+<hr>
+
+
+
