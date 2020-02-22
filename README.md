@@ -23,11 +23,31 @@ Python:
 
 <hr>
 
+**MUSAE**
+
+Paper: https://arxiv.org/abs/1909.13021
+
+Python: https://github.com/benedekrozemberczki/MUSAE
+
+Python: https://github.com/benedekrozemberczki/karateclub
+
+<hr>
+
 **SINE**
 
 Paper: https://arxiv.org/abs/1810.06768
 
 Python: https://github.com/benedekrozemberczki/SINE
+
+Python: https://github.com/benedekrozemberczki/karateclub
+
+<hr>
+
+**GL2Vec**
+
+Paper: https://link.springer.com/chapter/10.1007/978-3-030-36718-3_1
+
+Python: https://github.com/benedekrozemberczki/karateclub
 
 <hr>
 
@@ -36,6 +56,8 @@ Python: https://github.com/benedekrozemberczki/SINE
 Paper: https://arxiv.org/abs/1605.02115
 
 Python: https://github.com/benedekrozemberczki/walklets
+
+Python: https://github.com/benedekrozemberczki/karateclub
 
 <hr>
 
@@ -61,6 +83,8 @@ Paper: https://arxiv.org/abs/1802.02896
 
 Python: https://github.com/benedekrozemberczki/role2vec
 
+Python: https://github.com/benedekrozemberczki/karateclub
+
 <hr>
 
 **ASNE**
@@ -73,13 +97,15 @@ Python: https://github.com/benedekrozemberczki/ASNE
 
 **diff2vec**
 
-Paper: https://link.springer.com/chapter/10.1007/978-3-319-73198-8_9
+Paper: https://arxiv.org/abs/2001.07463
 
 Python: https://github.com/benedekrozemberczki/diff2vec
 
+Python: https://github.com/benedekrozemberczki/karateclub
+
 <hr>
 
-**gemsec**
+**GEMSEC**
 
 Paper: https://arxiv.org/abs/1802.03997
 
@@ -100,6 +126,8 @@ Python: https://radimrehurek.com/gensim/models/doc2vec.html
 Paper: https://arxiv.org/abs/1707.05005
 
 Python: https://github.com/benedekrozemberczki/graph2vec
+
+Python: https://github.com/benedekrozemberczki/karateclub
 
 <hr>
 
