@@ -403,3 +403,10 @@ Paper : https://arxiv.org/pdf/2004.14477.pdf
 Paper : https://arxiv.org/pdf/1911.11496.pdf
 
 <hr>
+
+**word2ket**
+
+Paper : https://arxiv.org/pdf/1911.04975.pdf
+Code: https://github.com/panaali/word2ket
+
+<hr>
