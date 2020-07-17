@@ -397,3 +397,9 @@ Paper : https://arxiv.org/pdf/1709.03856.pdf
 Paper : https://arxiv.org/pdf/2004.14477.pdf
 
 <hr>
+
+**FCA2Vec**
+
+Paper : https://arxiv.org/pdf/1911.11496.pdf
+
+<hr>
