@@ -407,6 +407,7 @@ Paper : https://arxiv.org/pdf/1911.11496.pdf
 **word2ket**
 
 Paper : https://arxiv.org/pdf/1911.04975.pdf
+
 Code: https://github.com/panaali/word2ket
 
 <hr>
@@ -414,6 +415,7 @@ Code: https://github.com/panaali/word2ket
 **Feature2Vec**
 
 Paper : https://arxiv.org/pdf/1908.11439.pdf
+
 Code: https://github.com/stevend94/Feature2Vec
 
 <hr>
@@ -421,6 +423,7 @@ Code: https://github.com/stevend94/Feature2Vec
 **Snomed2Vec**
 
 Paper : https://arxiv.org/pdf/1907.08650
+
 Code: https://gitlab.com/agarwal.khushbu/Snomed2Vec/-/tree/master
 
 <hr>
@@ -434,6 +437,7 @@ Paper : https://arxiv.org/pdf/1901.00484.pdf
 **Act2Vec**
 
 Paper : https://arxiv.org/pdf/1902.01119.pdf
+
 Code: https://github.com/guytenn/Act2Vec
 
 <hr>
