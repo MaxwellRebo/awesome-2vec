@@ -424,3 +424,16 @@ Paper : https://arxiv.org/pdf/1907.08650
 Code: https://gitlab.com/agarwal.khushbu/Snomed2Vec/-/tree/master
 
 <hr>
+
+**Action2Vec**
+
+Paper : https://arxiv.org/pdf/1901.00484.pdf
+
+<hr>
+
+**Act2Vec**
+
+Paper : https://arxiv.org/pdf/1902.01119.pdf
+Code: https://github.com/guytenn/Act2Vec
+
+<hr>
