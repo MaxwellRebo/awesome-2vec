@@ -456,3 +456,11 @@ Paper : https://arxiv.org/pdf/1804.10922
 Code: https://github.com/bio-ontology-research-group/opa2vec
 
 <hr>
+
+**Speech2Vec**
+
+Paper : https://arxiv.org/pdf/1803.08976
+
+Code: https://github.com/iamyuanchung/speech2vec-pretrained-vectors
+
+<hr>
