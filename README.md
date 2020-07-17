@@ -375,6 +375,7 @@ Paper: https://arxiv.org/pdf/1802.02896.pdf
 **Vis2Vec**
 
 Code: https://github.com/satwikkottur/VisualWord2Vec
+
 Paper : https://arxiv.org/pdf/1511.07067.pdf
 
 <hr>
@@ -439,5 +440,12 @@ Paper : https://arxiv.org/pdf/1901.00484.pdf
 Paper : https://arxiv.org/pdf/1902.01119.pdf
 
 Code: https://github.com/guytenn/Act2Vec
+
+<hr>
+
+**IoT2Vec**
+
+Paper : https://arxiv.org/pdf/1805.07907
+
 
 <hr>
