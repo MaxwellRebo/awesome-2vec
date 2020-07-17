@@ -447,12 +447,12 @@ Code: https://github.com/guytenn/Act2Vec
 
 Paper : https://arxiv.org/pdf/1805.07907
 
-Code: https://github.com/bio-ontology-research-group/opa2vec
-
 <hr>
 
 **OPA2Vec**
 
 Paper : https://arxiv.org/pdf/1804.10922
+
+Code: https://github.com/bio-ontology-research-group/opa2vec
 
 <hr>
