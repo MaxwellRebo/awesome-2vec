@@ -417,3 +417,10 @@ Paper : https://arxiv.org/pdf/1908.11439.pdf
 Code: https://github.com/stevend94/Feature2Vec
 
 <hr>
+
+**Snomed2Vec**
+
+Paper : https://arxiv.org/pdf/1907.08650
+Code: https://gitlab.com/agarwal.khushbu/Snomed2Vec/-/tree/master
+
+<hr>
