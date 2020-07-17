@@ -464,3 +464,11 @@ Paper : https://arxiv.org/pdf/1803.08976
 Code: https://github.com/iamyuanchung/speech2vec-pretrained-vectors
 
 <hr>
+
+**Skill2vec**
+
+Paper : https://arxiv.org/pdf/1707.09751.pdf
+
+Code: https://github.com/rvoak/skill2vec
+
+<hr>
