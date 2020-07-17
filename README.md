@@ -472,3 +472,9 @@ Paper : https://arxiv.org/pdf/1707.09751.pdf
 Code: https://github.com/rvoak/skill2vec
 
 <hr>
+
+**DocTag2Vec**
+
+Paper : https://arxiv.org/pdf/1707.04596
+
+<hr>
