@@ -392,5 +392,8 @@ Paper : https://arxiv.org/pdf/1709.03856.pdf
 
 <hr>
 
+**Packet2Vec**
 
+Paper : https://arxiv.org/pdf/2004.14477.pdf
 
+<hr>
