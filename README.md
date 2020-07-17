@@ -410,3 +410,10 @@ Paper : https://arxiv.org/pdf/1911.04975.pdf
 Code: https://github.com/panaali/word2ket
 
 <hr>
+
+**Feature2Vec**
+
+Paper : https://arxiv.org/pdf/1908.11439.pdf
+Code: https://github.com/stevend94/Feature2Vec
+
+<hr>
