@@ -486,3 +486,11 @@ Paper : https://arxiv.org/abs/1701.06279
 Code: https://github.com/pnpnpn/dna2vec
 
 <hr>
+
+**Time2Vec**
+
+Paper : https://arxiv.org/pdf/1907.05321.pdf
+
+Code: https://github.com/ojus1/Time2Vec-PyTorch
+
+<hr>
