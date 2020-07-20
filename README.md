@@ -494,3 +494,9 @@ Paper : https://arxiv.org/pdf/1907.05321.pdf
 Code: https://github.com/ojus1/Time2Vec-PyTorch
 
 <hr>
+
+**AppUsage2Vec**
+
+Paper : http://www.shazhao.net/papers/icde2019.pdf
+
+<hr>
