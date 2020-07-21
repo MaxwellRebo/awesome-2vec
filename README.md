@@ -375,6 +375,7 @@ Paper: https://arxiv.org/pdf/1802.02896.pdf
 **Vis2Vec**
 
 Code: https://github.com/satwikkottur/VisualWord2Vec
+
 Paper : https://arxiv.org/pdf/1511.07067.pdf
 
 <hr>
@@ -392,5 +393,110 @@ Paper : https://arxiv.org/pdf/1709.03856.pdf
 
 <hr>
 
+**Packet2Vec**
 
+Paper : https://arxiv.org/pdf/2004.14477.pdf
 
+<hr>
+
+**FCA2Vec**
+
+Paper : https://arxiv.org/pdf/1911.11496.pdf
+
+<hr>
+
+**word2ket**
+
+Paper : https://arxiv.org/pdf/1911.04975.pdf
+
+Code: https://github.com/panaali/word2ket
+
+<hr>
+
+**Feature2Vec**
+
+Paper : https://arxiv.org/pdf/1908.11439.pdf
+
+Code: https://github.com/stevend94/Feature2Vec
+
+<hr>
+
+**Snomed2Vec**
+
+Paper : https://arxiv.org/pdf/1907.08650
+
+Code: https://gitlab.com/agarwal.khushbu/Snomed2Vec/-/tree/master
+
+<hr>
+
+**Action2Vec**
+
+Paper : https://arxiv.org/pdf/1901.00484.pdf
+
+<hr>
+
+**Act2Vec**
+
+Paper : https://arxiv.org/pdf/1902.01119.pdf
+
+Code: https://github.com/guytenn/Act2Vec
+
+<hr>
+
+**IoT2Vec**
+
+Paper : https://arxiv.org/pdf/1805.07907
+
+<hr>
+
+**OPA2Vec**
+
+Paper : https://arxiv.org/pdf/1804.10922
+
+Code: https://github.com/bio-ontology-research-group/opa2vec
+
+<hr>
+
+**Speech2Vec**
+
+Paper : https://arxiv.org/pdf/1803.08976
+
+Code: https://github.com/iamyuanchung/speech2vec-pretrained-vectors
+
+<hr>
+
+**Skill2vec**
+
+Paper : https://arxiv.org/pdf/1707.09751.pdf
+
+Code: https://github.com/rvoak/skill2vec
+
+<hr>
+
+**DocTag2Vec**
+
+Paper : https://arxiv.org/pdf/1707.04596
+
+<hr>
+
+**dna2vec**
+
+Paper : https://arxiv.org/abs/1701.06279
+
+Code: https://github.com/pnpnpn/dna2vec
+
+<hr>
+
+**Time2Vec**
+
+Paper : https://arxiv.org/pdf/1907.05321.pdf
+
+Code: https://github.com/ojus1/Time2Vec-PyTorch
+
+<hr>
+
+**AppUsage2Vec**
+
+Paper : http://www.shazhao.net/papers/icde2019.pdf
+
+<hr>
