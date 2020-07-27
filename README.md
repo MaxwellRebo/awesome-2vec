@@ -500,3 +500,11 @@ Code: https://github.com/ojus1/Time2Vec-PyTorch
 Paper : http://www.shazhao.net/papers/icde2019.pdf
 
 <hr>
+
+
+**Debate2Vec**
+
+Python : https://github.com/Hellisotherpeople/debate2vec
+
+<hr>
+
