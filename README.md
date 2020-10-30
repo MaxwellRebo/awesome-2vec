@@ -23,6 +23,14 @@ Python:
 
 <hr>
 
+**ASNE**
+
+Paper: https://arxiv.org/abs/2006.04941
+
+Python: https://github.com/jisungyoon/persona2vec
+
+<hr>
+
 **MUSAE**
 
 Paper: https://arxiv.org/abs/1909.13021
