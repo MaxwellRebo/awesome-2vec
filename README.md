@@ -153,6 +153,11 @@ Python: https://github.com/airalcorn2/batter-pitcher-2vec
 
 <hr>
 
+**Soccer Team Vectors**
+Paper: https://arxiv.org/abs/1908.00698
+
+<hr>
+
 **illustration-2vec**
 
 Python: https://github.com/rezoo/illustration2vec
