@@ -521,3 +521,9 @@ Python : https://github.com/Hellisotherpeople/debate2vec
 
 <hr>
 
+
+**Tile2Vec**
+
+Paper : https://arxiv.org/pdf/1805.02855.pdf
+
+<hr>
