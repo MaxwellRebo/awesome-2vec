@@ -393,6 +393,14 @@ Paper : https://arxiv.org/pdf/1511.07067.pdf
 
 <hr>
 
+**Patient2Vec**
+
+Code: https://github.com/BarnesLab/Patient2Vec
+
+Paper: https://arxiv.org/pdf/1810.04793.pdf
+
+<hr>
+
 **gl2vec**
 
 Paper : https://arxiv.org/pdf/1812.05473.pdf
