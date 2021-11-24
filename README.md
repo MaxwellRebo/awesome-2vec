@@ -535,3 +535,11 @@ Python : https://github.com/Hellisotherpeople/debate2vec
 Paper : https://arxiv.org/pdf/1805.02855.pdf
 
 <hr>
+
+**Gene2Vec**
+
+Paper : https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-018-5370-x.pdf
+
+Code: https://github.com/jingcheng-du/Gene2vec
+
+<hr>
