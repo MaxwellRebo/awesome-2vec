@@ -543,3 +543,11 @@ Paper : https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-018-5370-
 Code: https://github.com/jingcheng-du/Gene2vec
 
 <hr>
+
+**Phase2Vec**
+
+Paper: https://arxiv.org/pdf/2212.03857.pdf
+
+Code: https://github.com/nitzanlab/phase2vec/
+
+<hr>
